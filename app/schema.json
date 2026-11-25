@@ -1,0 +1,2028 @@
+[
+  {
+    "id": "tblronXdoirjICT0",
+    "name": "项目总控表",
+    "fields": [
+      {
+        "id": "fldBhV47mp",
+        "name": "单语字幕+双语字幕各一版",
+        "type": 3,
+        "options": [
+          "是",
+          "否"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldXBNBMww",
+        "name": "总集数",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldGSFubv7",
+        "name": "项目类型",
+        "type": 3,
+        "options": [
+          "AI漫剧",
+          "AI仿真人",
+          "AI微电影（时长≦60min）",
+          "AI电影（时长>60min）",
+          "萌宠"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldYERO8H6",
+        "name": "作品信息",
+        "type": 18,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldm843Ome",
+        "name": "赛事名称/主题",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldKcCyTDB",
+        "name": "项目性质",
+        "type": 3,
+        "options": [
+          "自制",
+          "承制"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldwX0X1a0",
+        "name": "国内发布平台",
+        "type": 4,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldKLPQj65",
+        "name": "开始时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldHc5InC9",
+        "name": "卡点情况",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldS7WKNf6",
+        "name": "生成进度",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldpVDcQ0s",
+        "name": "投放地区",
+        "type": 4,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld4Wj30Yb",
+        "name": "赛事截止时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldq1i4P4F",
+        "name": "所属业务",
+        "type": 3,
+        "options": [
+          "AI短剧",
+          "AI电影",
+          "新媒体",
+          "商单",
+          "赛事"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld4JwXMVR",
+        "name": "资产已完成任务数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fld8ZcIJpo",
+        "name": "分辨率",
+        "type": 3,
+        "options": [
+          "420p",
+          "720p",
+          "1080p"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldZBqSw4O",
+        "name": "资产总任务数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fld0Qy1nKN",
+        "name": "后期已完成任务数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldecPOiS9",
+        "name": "资产进度",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldnw9U8IF",
+        "name": "制作定级",
+        "type": 3,
+        "options": [
+          "S",
+          "A",
+          "B"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldwFee5sJ",
+        "name": "主办方",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldQqteK5s",
+        "name": "商单需求",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldARmdmQQ",
+        "name": "项目进度（总进度）",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldVHU6pNo",
+        "name": "双语字幕",
+        "type": 4,
+        "options": [
+          "简体中文",
+          "繁体中文",
+          "英文",
+          "韩文",
+          "日文"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldTEijNOl",
+        "name": "交付时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldy5ENRYA",
+        "name": "尺寸",
+        "type": 3,
+        "options": [
+          "16:9（横屏）",
+          "9:16（竖屏）"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldShRfoYJ",
+        "name": "项目名称",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldfCkP8bh",
+        "name": "单语字幕",
+        "type": 3,
+        "options": [
+          "简体中文",
+          "繁体中文",
+          "英文",
+          "韩文",
+          "日文"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldJme5Nbw",
+        "name": "是否超分",
+        "type": 3,
+        "options": [
+          "否",
+          "是"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldGjE0ZZR",
+        "name": "生成已完成任务数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldyCrCNxi",
+        "name": "单集时长（分钟）",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldEhxjTQ7",
+        "name": "导出分辨率",
+        "type": 3,
+        "options": [
+          "480p",
+          "720p",
+          "1080p"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldUzUeyIC",
+        "name": "后期总任务数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldHcjSl1G",
+        "name": "结束时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldfDPPgN2",
+        "name": "超分目标",
+        "type": 3,
+        "options": [
+          "720p",
+          "1080p"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldnjbPbcb",
+        "name": "项目负责人",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldGDjqleN",
+        "name": "生成总任务数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldfOuKwml",
+        "name": "赛事详情",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldYe5c15d",
+        "name": "语种",
+        "type": 4,
+        "options": [
+          "简体中文",
+          "繁体中文",
+          "英文",
+          "韩文",
+          "日文"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld0V2QvcN",
+        "name": "海外发布平台",
+        "type": 4,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldLtIOm9s",
+        "name": "总时长（分钟）",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldLusR1VN",
+        "name": "后期进度",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblV3Lqq3cKTtNSv",
+    "name": "任务排期一览表",
+    "fields": [
+      {
+        "id": "fld14Rtr38",
+        "name": "所属业务",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldgceOr6y",
+        "name": "任务详情",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld2PC1vmh",
+        "name": "项目名称",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldpgktcyt",
+        "name": "任务负责人",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldVV7iGi3",
+        "name": "项目类型",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldapXxGBu",
+        "name": "任务返修次数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldleh8vGu",
+        "name": "剧本",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldckm5XHn",
+        "name": "实际完成时间",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldbZJ53j8",
+        "name": "任务结束时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld5YqNZkT",
+        "name": "交付时效差(天)",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldaGyme4b",
+        "name": "卡点情况",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fld9aGQXzL",
+        "name": "任务情况",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldmupJNh8",
+        "name": "开始时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldS3kMcC5",
+        "name": "集数",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldXbTZmyV",
+        "name": "任务类型",
+        "type": 3,
+        "options": [
+          "剧本围读",
+          "全剧资产（含人物、场景、道具）",
+          "人物资产",
+          "场景资产",
+          "道具资产",
+          "分镜表",
+          "AI生成",
+          "后期剪辑",
+          "发行任务",
+          "独立全程"
+        ],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblU3doRvQdxq18I",
+    "name": "交付审核日志",
+    "fields": [
+      {
+        "id": "fldPUqrOQE",
+        "name": "提交人",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldMlxgQIE",
+        "name": "提交时间",
+        "type": 1002,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldGcQ7SgM",
+        "name": "审核人",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldo7w2ZiG",
+        "name": "审核意见",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldf8tBeBP",
+        "name": "交付时长（分钟）",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldk339Nkz",
+        "name": "项目名称",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldVqfGdGR",
+        "name": "提交任务",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldSghBzLI",
+        "name": "任务类型",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldvrrAh62",
+        "name": "交付物版本号",
+        "type": 3,
+        "options": [
+          "V1",
+          "V2",
+          "V3",
+          "V4",
+          "V5",
+          "V6",
+          "V7",
+          "V8",
+          "V9",
+          "V10",
+          "V11",
+          "V12",
+          "V13",
+          "V14",
+          "V15",
+          "V16",
+          "V17",
+          "V18",
+          "V19",
+          "V20"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldfy3reJk",
+        "name": "问题类型",
+        "type": 4,
+        "options": [
+          "穿帮",
+          "黑幕",
+          "闪频",
+          "摩尔纹",
+          "音画不同步",
+          "字幕问题",
+          "色差大",
+          "表演",
+          "一致性",
+          "节奏",
+          "画质",
+          "声音",
+          "字幕",
+          "合规",
+          "其他"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldZF4t9Go",
+        "name": "时间码",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld3C9RQSS",
+        "name": "集数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldF7Aizji",
+        "name": "审核结果",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldkLwvSL6",
+        "name": "定稿时间",
+        "type": 1002,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldfigYn31",
+        "name": "交付物存放路径",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tbltYNMKTSI8rPs8",
+    "name": "AI创作及画布账号",
+    "fields": [
+      {
+        "id": "fld2ynWyoP",
+        "name": "剩余额度",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldqX9j8LO",
+        "name": "平台",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldsewzg2D",
+        "name": "账号名字",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldZcN9Z9P",
+        "name": "总额度",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld2RDfSLp",
+        "name": "重置日期",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldhdzrn3e",
+        "name": "距离重置时长（小时）",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldAkvZVMM",
+        "name": "管理人",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld3PihuUo",
+        "name": "余额状态",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblxcDAelWWDDzNX",
+    "name": "商务",
+    "fields": [
+      {
+        "id": "fld0hivte7",
+        "name": "合作开始时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldRUv0Vas",
+        "name": "作品名称（英文）",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldkRrOmVC",
+        "name": "开始撰稿日期",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldViZQhVn",
+        "name": "题材",
+        "type": 4,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld7evEJes",
+        "name": "合作方式",
+        "type": 3,
+        "options": [
+          "买断",
+          "前置费用+纯利润分红",
+          "纯利润分红"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldneo3AD4",
+        "name": "合作作品（英文名）",
+        "type": 4,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldAp6ja3R",
+        "name": "买断/前置费用 总金额",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldceH8KwJ",
+        "name": "合作作品（中文名）",
+        "type": 4,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldnEXfd0G",
+        "name": "作者笔名",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld96DaVeD",
+        "name": "对接主编",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldY5bfxvW",
+        "name": "作品名称（中文）",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldt4E5I5f",
+        "name": "支付日期",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldUVuHGVA",
+        "name": "买断/前置费用 支付方式",
+        "type": 3,
+        "options": [
+          "一次性支付",
+          "按进度支付",
+          "按时间支付"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldX1B6kms",
+        "name": "合同存放路径",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldM2BmD8H",
+        "name": "负责人",
+        "type": 1003,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fld4e7IJK0",
+        "name": "作者姓名",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldswPad1R",
+        "name": "载体",
+        "type": 3,
+        "options": [
+          "小说",
+          "剧本"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldVip1qf4",
+        "name": "纯利润分红比例",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldR6rleRY",
+        "name": "支付情况",
+        "type": 3,
+        "options": [
+          "待支付",
+          "已支付"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldvFFkNPw",
+        "name": "合同编号",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldzMl8Bx8",
+        "name": "进度",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fld2qdXhWA",
+        "name": "评级",
+        "type": 3,
+        "options": [
+          "S",
+          "A",
+          "B"
+        ],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblxVGRKF6cdn3cf",
+    "name": "作品库",
+    "fields": [
+      {
+        "id": "fld44NKRaX",
+        "name": "进度",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldM9yy7hX",
+        "name": "载体",
+        "type": 3,
+        "options": [
+          "小说",
+          "剧本"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldLAadeIS",
+        "name": "台词本",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldvN8Aafx",
+        "name": "作者姓名",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldgrt1FeX",
+        "name": "作品名称（中文）",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "flddPEtR0U",
+        "name": "完成时间",
+        "type": 1002,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldzY0d7T5",
+        "name": "改编作者",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldNXOrFAP",
+        "name": "题材",
+        "type": 4,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldTgDWs35",
+        "name": "负责主编",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldWuAmSEK",
+        "name": "作品名称（英文）",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "flde5kwZbQ",
+        "name": "撰稿开始时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld3DwXY52",
+        "name": "人物小传",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "flduZGTbm4",
+        "name": "作者笔名",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld7P1ehWL",
+        "name": "评级",
+        "type": 3,
+        "options": [
+          "S",
+          "A",
+          "B"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldIHWCnSi",
+        "name": "作品来源",
+        "type": 3,
+        "options": [
+          "自制",
+          "商务",
+          "合作作者"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldkkTauQ5",
+        "name": "改编剧本",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldC2uLz8G",
+        "name": "计划完成时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldZj6hVtK",
+        "name": "剧本围读",
+        "type": 3,
+        "options": [
+          "已完成",
+          "未完成",
+          "无需围读"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldECpCuZO",
+        "name": "世界框架与背景",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldrrBKHkG",
+        "name": "稿件定稿",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblViozsToMYbs4a",
+    "name": "历史排期任务",
+    "fields": [
+      {
+        "id": "fldbZJ53j8",
+        "name": "任务结束时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld5YqNZkT",
+        "name": "交付时效差(天)",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldaGyme4b",
+        "name": "卡点情况",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldS3kMcC5",
+        "name": "集数",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldapXxGBu",
+        "name": "任务返修次数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldgceOr6y",
+        "name": "任务详情",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld2PC1vmh",
+        "name": "项目名称",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld14Rtr38",
+        "name": "所属业务",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldXbTZmyV",
+        "name": "任务类型",
+        "type": 3,
+        "options": [
+          "剧本围读",
+          "全剧资产（含人物、场景、道具）",
+          "人物资产",
+          "场景资产",
+          "道具资产",
+          "分镜表",
+          "AI生成",
+          "后期剪辑",
+          "发行任务",
+          "独立全程"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldmupJNh8",
+        "name": "开始时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldleh8vGu",
+        "name": "剧本",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldckm5XHn",
+        "name": "实际完成时间",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldpgktcyt",
+        "name": "任务负责人",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldFmLxesf",
+        "name": "卡点情况 (1)",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldVV7iGi3",
+        "name": "项目类型",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fld9aGQXzL",
+        "name": "任务情况",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblBir8L4mmNkl0W",
+    "name": "历史审核记录",
+    "fields": [
+      {
+        "id": "fldk339Nkz",
+        "name": "项目名称",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldF7Aizji",
+        "name": "审核结果",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldZF4t9Go",
+        "name": "时间码",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldSghBzLI",
+        "name": "任务类型",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldo7w2ZiG",
+        "name": "审核意见",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldfy3reJk",
+        "name": "问题类型",
+        "type": 4,
+        "options": [
+          "穿帮",
+          "黑幕",
+          "闪频",
+          "罗马纹",
+          "音画不同步",
+          "字幕问题",
+          "色差大",
+          "表演",
+          "一致性",
+          "节奏",
+          "画质",
+          "声音",
+          "字幕",
+          "合规",
+          "其他"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldGcQ7SgM",
+        "name": "审核人",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldvrrAh62",
+        "name": "交付物版本号",
+        "type": 3,
+        "options": [
+          "V1",
+          "V2",
+          "V3",
+          "V4",
+          "V5",
+          "V6",
+          "V7",
+          "V8",
+          "V9",
+          "V10",
+          "V11",
+          "V12",
+          "V13",
+          "V14",
+          "V15",
+          "V16",
+          "V17",
+          "V18",
+          "V19",
+          "V20"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldMlxgQIE",
+        "name": "提交时间",
+        "type": 1002,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldPUqrOQE",
+        "name": "提交人",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldfigYn31",
+        "name": "交付物存放路径",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldkLwvSL6",
+        "name": "定稿时间",
+        "type": 1002,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fld3C9RQSS",
+        "name": "集数",
+        "type": 19,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldVqfGdGR",
+        "name": "提交任务",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblR2IKEWs4kt3wh",
+    "name": "发行排期",
+    "fields": [
+      {
+        "id": "fld82ppJ2v",
+        "name": "发布情况",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fld9sztZ3x",
+        "name": "平台",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldIRfFssQ",
+        "name": "计划发布内容",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld9JZFlJx",
+        "name": "预发布时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld1ujty7Z",
+        "name": "账号名称",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldIBwap31",
+        "name": "实际发布时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblnHA3oxZfYcoeV",
+    "name": "社媒账号表",
+    "fields": [
+      {
+        "id": "fldMTH7jLH",
+        "name": "注册时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldE7J0EUn",
+        "name": "账号定位",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld9JZFlJx",
+        "name": "预发布时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldv0QeWLH",
+        "name": "登陆设备",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld82ppJ2v",
+        "name": "发布情况",
+        "type": 20,
+        "options": [],
+        "readonly": true,
+        "formula": ""
+      },
+      {
+        "id": "fldIRfFssQ",
+        "name": "计划发布内容",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldwKXi2yl",
+        "name": "账号属性",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld966LB07",
+        "name": "账号主页链接",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld1ujty7Z",
+        "name": "账号名称",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldKPQA4AY",
+        "name": "姓名",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldIBwap31",
+        "name": "实际发布时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld9sztZ3x",
+        "name": "平台",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldYsgKXCs",
+        "name": "账号状态",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldAZR5mOt",
+        "name": "平台账号（UID）",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblS6oSYtgMk5kCX",
+    "name": "公司手机号及微信",
+    "fields": [
+      {
+        "id": "fldLS1ICUs",
+        "name": "实名人姓名",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldtoCwtDA",
+        "name": "预缴费用",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldCRDOuuT",
+        "name": "微信名",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldrOIhM2e",
+        "name": "资费套餐",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldjvimYIC",
+        "name": "号卡存放设备",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldqn0DBrm",
+        "name": "姓名",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld3CsWep9",
+        "name": "运营商",
+        "type": 3,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldZYbO6hA",
+        "name": "登录设备",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldgTF0NBJ",
+        "name": "每月话费",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldZq0ZXQN",
+        "name": "微信号",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblsSfxNhil5Npk3",
+    "name": "招聘",
+    "fields": [
+      {
+        "id": "fldqWNV66n",
+        "name": "应聘岗位",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld3Dc9PC0",
+        "name": "姓名",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblpIN50wQrU0Np3",
+    "name": "花名册",
+    "fields": [
+      {
+        "id": "fld208y2H1",
+        "name": "合同类型",
+        "type": 3,
+        "options": [
+          "未录入",
+          "固定期限劳动合同",
+          "实习协议",
+          "无固定期限劳动合同"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld2dOoQhc",
+        "name": "合同到期日期",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldgu3aqik",
+        "name": "雇员类型",
+        "type": 3,
+        "options": [
+          "正式",
+          "实习"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldcFSUkgS",
+        "name": "入职日期",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldhv7qM4d",
+        "name": "员工状态",
+        "type": 3,
+        "options": [
+          "在职",
+          "已离职",
+          "待入职"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldkcnp8JC",
+        "name": "合同开始日期",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld9H9O3Mk",
+        "name": "英文姓名",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldBm0VoaU",
+        "name": "转正状态",
+        "type": 3,
+        "options": [
+          "待转正",
+          "未录入",
+          "无需转正",
+          "已转正"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldokxRmp3",
+        "name": "飞书用户",
+        "type": 11,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldud5ijvH",
+        "name": "转正日期",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldkUum6N6",
+        "name": "中文姓名",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld5JOx0dm",
+        "name": "工号",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldz8x8vji",
+        "name": "试用期（月）",
+        "type": 2,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldobn0UnL",
+        "name": "职级名称",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldoIoewpf",
+        "name": "职位名称",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldg5bWWAr",
+        "name": "上级中文名",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  },
+  {
+    "id": "tblcmtEAIV87upmb",
+    "name": "AIGC赛事台账",
+    "fields": [
+      {
+        "id": "fldzwqnSrD",
+        "name": "承办方",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldPfL1t2V",
+        "name": "备注",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldkp3fDnj",
+        "name": "赛事官方链接",
+        "type": 15,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldlAdey4T",
+        "name": "举办方",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldBGK8WPr",
+        "name": "参赛要求",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldRyTDJnb",
+        "name": "作品规则",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "flda60CNls",
+        "name": "赛事类型",
+        "type": 3,
+        "options": [
+          "AI短片/视频",
+          "AI短剧",
+          "AI音乐",
+          "图像/视觉",
+          "综合"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fld3zYwLuS",
+        "name": "报名交稿开始时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldloEoSpv",
+        "name": "报名交稿截止时间",
+        "type": 5,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldG92dk08",
+        "name": "地区",
+        "type": 3,
+        "options": [
+          "国内",
+          "海外"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldyFIHln4",
+        "name": "赛事名称",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldz9UEb7Y",
+        "name": "跟进状态",
+        "type": 3,
+        "options": [
+          "正在制作",
+          "确定参与",
+          "备选观望",
+          "不参与",
+          "已提交"
+        ],
+        "readonly": false,
+        "formula": ""
+      },
+      {
+        "id": "fldulcFK2K",
+        "name": "奖金",
+        "type": 1,
+        "options": [],
+        "readonly": false,
+        "formula": ""
+      }
+    ],
+    "records": {},
+    "views": []
+  }
+]
